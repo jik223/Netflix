@@ -1,0 +1,41 @@
+.cin {
+    background-image: url(Netflix-background_860c8ece6b34fb4f43af02255ca8f225-xl.jpg);
+    height: 100vh;
+    background-size: cover;
+    color: white;
+}
+
+.cin h1 {
+    padding-top: 150px;
+    padding-left: 400px;
+}
+
+.cin h3 {
+    padding-left: 500px;
+}
+
+.ti {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ti img {
+    width: 200px;
+}
+
+.ti button {
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    color: white;
+}
+
+.gt2 button {
+    background-color: red;
+    color: white;
+    border-radius: 100px;
+}
+
+.gt2 {
+    margin-left: 500px;
+}
